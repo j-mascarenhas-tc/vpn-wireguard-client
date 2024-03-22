@@ -1,4 +1,4 @@
-# Instalação Wireguard Client Gui - Ubuntu
+# Install Wireguard Client Gui - Ubuntu
 
 
 
